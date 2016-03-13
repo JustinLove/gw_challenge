@@ -154,6 +154,7 @@ requireGW(['shared/gw_balance'], function(balance) {
       percent_air: 0.2,
       percent_naval: 0.05,
       percent_orbital: 0.05,
+      rampDifficulty: true, //  classic didn't, but eco is 1.0 with current code
       adv_eco_mod: 1.3,
       adv_eco_mod_alone: 0.85,
       goForKill: true,
