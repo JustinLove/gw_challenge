@@ -1,8 +1,5 @@
 # GW Challenge
 
-Alternate, mostly harder difficulties for galactic war.
+Alternate, mostly harder difficulties for Galactic War.
 
-## Features
-
-- Rainbows
-- Unicorns
+Most based on harder difficulties from prior versions of GW. 'Smart' has an econ mod like Classic Hard, but uses the un-handicapped personality values from Absurd.
