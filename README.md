@@ -1,4 +1,4 @@
-# GW Challenge
+# Challenge Levels for galatic war
 
 Alternate, mostly harder difficulties for Galactic War.
 

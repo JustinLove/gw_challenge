@@ -1,11 +1,11 @@
 {
   "author": "wondible",
-  "build": "89755",
-  "category": ["galactic-war", "titans"],
+  "build": "94684",
+  "category": ["gw", "titans"],
   "context": "client",
-  "date": "2016/03/15",
+  "date": "2016/07/12",
   "description": "Alternate, mostly harder difficulties for galactic war.",
-  "display_name": "GW Challenge",
+  "display_name": "Challenge Levels for galactic war",
   "forum": "https://forums.uberent.com/threads/gw-challenge.71508/",
   "identifier": "com.wondible.pa.gw_challenge",
   "priority": 100,
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 
